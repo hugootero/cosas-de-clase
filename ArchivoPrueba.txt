@@ -2,3 +2,6 @@ Estamos probando Github, la herramienta de control de versiones
 Esta es la línea 2
 jlf
 tengo que ir a la pelu a las 7
+cars mola
+hoy voy a remar por la tarde
+esta es la versión actualizada
